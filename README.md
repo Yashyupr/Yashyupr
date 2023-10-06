@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yashoda Pokhrel @Yashyupr.
+- 👋 Hi, I’m Yashoda Pokhrel.
 - 👀 I’m interested in Data Analysis and Visualization.
 - 📫 How to reach me yashodapokhrel1@gmail.com
 
